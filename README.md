@@ -9,11 +9,11 @@ Datasets used can be accessed by:
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data?select=Team+Summaries.csv
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data?select=Player+Per+Game.csv
 
-Setup Instructions
+# Setup Instructions
 1. Creating the Virtual Environment
 To isolate project dependencies, create a virtual environment:
 
-python -m venv venv
+```python -m venv venv```
 2. Activating the Virtual Environment
 Activate the virtual environment with the following command:
 
