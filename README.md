@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data?select=Team+
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data?select=Player+Per+Game.csv
 
 # Setup Instructions
-## 1. Creating the Virtual Environment
+## 1. Creating the Virtual Environment /
 
 To isolate project dependencies, create a virtual environment:
 
