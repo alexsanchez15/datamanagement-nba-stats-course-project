@@ -10,15 +10,18 @@ https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data?select=Team+
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data?select=Player+Per+Game.csv
 
 # Setup Instructions
-1. Creating the Virtual Environment
+## 1. Creating the Virtual Environment
+
 To isolate project dependencies, create a virtual environment:
 
 ```python -m venv venv```
 2. Activating the Virtual Environment
-Activate the virtual environment with the following command:
 
-source ./venv/bin/activate
+Activate the virtual environment on Linux with the following command:
+```source ./venv/bin/activate```
+Windows:
+```.\venv\Scripts\activate```
+
 3. Installing Required Libraries
 Install all necessary libraries by running:
-
-pip install -r requirements.txt
+```pip install -r requirements.txt```
